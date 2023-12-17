@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently getting into **Reinforcement Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anshikabhatia13](https://github.com/anshikabhatia13)
+- 👨‍💻 All of my projects are available at [anshikabhatia13](https://github.com/anshikabhatia13)
 
-- 📝 My portfolio website [https://6470efe400340f0772e878de--joyful-centaur-989d47.netlify.app/](https://6470efe400340f0772e878de--joyful-centaur-989d47.netlify.app/)
+- 📝 My portfolio website [anshika.netlify.app](https://6470efe400340f0772e878de--joyful-centaur-989d47.netlify.app/)
 
 - 📫 How to reach me **anshika150903@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1diz6JRlSuCe_S3AxX1dXapVVbLDJI2Hx/view?usp=drive_link](https://drive.google.com/file/d/1diz6JRlSuCe_S3AxX1dXapVVbLDJI2Hx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
